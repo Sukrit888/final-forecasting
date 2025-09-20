@@ -1,4 +1,6 @@
 streamlit
 pandas
 plotly-express
+scikit-learn
+numpy
 openpyxl
